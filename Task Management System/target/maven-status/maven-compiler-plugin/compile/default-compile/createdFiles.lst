@@ -1,0 +1,17 @@
+org\tms\config\JwtAuthenticationFilter.class
+org\tms\repository\UserRepository.class
+org\tms\entity\Role.class
+org\tms\service\JwtUtil.class
+org\tms\entity\User.class
+org\tms\service\CustomUserDetailsService.class
+org\tms\service\JwtService.class
+org\tms\controller\AuthController.class
+org\tms\dto\AuthenticationRequest.class
+org\tms\entity\Task.class
+org\tms\controller\TaskController.class
+org\tms\Main.class
+org\tms\TaskRepository.class
+org\tms\config\SecurityConfig.class
+org\tms\TaskManagementSystemApplication.class
+org\tms\entity\User$UserBuilder.class
+org\tms\dto\AuthenticationResponse.class
